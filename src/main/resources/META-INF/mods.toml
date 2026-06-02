@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[authors]]
+    name="mr APPLE"
+
+[[mods]]
+modId="echoclone"
+version="1.0.0"
+displayName="Echo Clone"
+logoFile="echoclone.png"
+authors="mr APPLE"
+description='''
+Made by mr APPLE.
+
+Record your actions and spawn looping clones of yourself!
+Press R to start/stop recording. Press G to open the Clone Manager.
+Comes with 8 built-in skins: Dream, Technoblade, Notch, jeb_, MrBeast, Skeppy, BadBoyHalo & Steve.
+'''
+[[dependencies.echoclone]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.2,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.echoclone]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

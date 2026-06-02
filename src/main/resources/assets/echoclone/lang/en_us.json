@@ -1,0 +1,21 @@
+{
+  "key.echoclone.record": "Record / Spawn Clone",
+  "key.echoclone.manager": "Open Clone Manager",
+  "key.categories.echoclone": "Echo Clone",
+  "echoclone.recording.start": "§a● Recording... perform your actions then press R again.",
+  "echoclone.recording.stop": "§bRecording complete! Clone spawned.",
+  "echoclone.recording.toomany": "§cMax 10 clones reached. Remove one first.",
+  "echoclone.gui.title": "Echo Clone Manager",
+  "echoclone.gui.remove_all": "Remove All My Clones",
+  "echoclone.gui.remove_nearest": "Remove Nearest Clone",
+  "echoclone.gui.select_skin": "Clone Skin",
+  "echoclone.gui.made_by": "Made by mr APPLE",
+  "echoclone.skin.dream": "Dream",
+  "echoclone.skin.technoblade": "Technoblade",
+  "echoclone.skin.notch": "Notch",
+  "echoclone.skin.jeb": "jeb_",
+  "echoclone.skin.mrbeast": "MrBeast",
+  "echoclone.skin.skeppy": "Skeppy",
+  "echoclone.skin.bbh": "BadBoyHalo",
+  "echoclone.skin.steve": "Steve"
+}
